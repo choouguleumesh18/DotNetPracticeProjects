@@ -1,0 +1,6 @@
+E:\DotNet Class Examples\Umesh .Net Practice\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe.config
+E:\DotNet Class Examples\Umesh .Net Practice\ClassPractice\ClassPractice\bin\Debug\ClassPractice.exe
+E:\DotNet Class Examples\Umesh .Net Practice\ClassPractice\ClassPractice\bin\Debug\ClassPractice.pdb
+E:\DotNet Class Examples\Umesh .Net Practice\ClassPractice\ClassPractice\obj\Debug\ClassPractice.csprojResolveAssemblyReference.cache
+E:\DotNet Class Examples\Umesh .Net Practice\ClassPractice\ClassPractice\obj\Debug\ClassPractice.exe
+E:\DotNet Class Examples\Umesh .Net Practice\ClassPractice\ClassPractice\obj\Debug\ClassPractice.pdb
